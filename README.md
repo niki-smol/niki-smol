@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @niki-smol
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning FRP and little bit of C++
-- 💞️ I’m looking to collaborate on a few self-made smartwatch projects
+- 🍎 I’m an iOS Developer at the moment
+- 🧑🏻‍💻 I’m currently learning FRP and little bit of C++, intrested in Golang and backend development
 - 📫 You can alway reach me via Telegram app : @smolniks
 
 <!---
